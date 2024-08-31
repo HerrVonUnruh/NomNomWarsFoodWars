@@ -1,0 +1,154 @@
+[
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\FoodWars.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\FoodWars.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\FoodWars.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Private\\CameraTest.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Private\\Enemy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Private\\FightCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Private\\Skript_CameraController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Private\\Skript_FPSCharachter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Private\\Skript_KingKillerTimer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Private\\Skript_TokenManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Private\\Skript_WinManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Public\\CameraTest.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Public\\Enemy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Public\\FightCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Public\\Skript_CameraController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Public\\Skript_FPSCharachter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Public\\Skript_KingKillerTimer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Public\\Skript_TokenManager.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nilsh\\FoodWars\\Source\\FoodWars\\Public\\Skript_WinManager.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default\\FoodWars.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
