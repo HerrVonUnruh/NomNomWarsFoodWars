@@ -1,20 +1,24 @@
 {
     "configurations": [
         {
-            "name": "FoodWarsEditor Editor Win64 Development (NomNomWars)",
-            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "name": "NomNomWarsEditor Editor Win64 Development (NomNomWars)",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_NomNomWars.json"
+            "compileCommands": [
+                "C:\\Users\\robin\\Desktop\\Projects\\NomNomWarsFoodWars\\.vscode\\compileCommands_NomNomWars.json"
+            ]
         },
         {
             "name": "Win32",
-            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\nilsh\\FoodWars\\.vscode\\compileCommands_Default.json"
+            "compileCommands": [
+                "C:\\Users\\robin\\Desktop\\Projects\\NomNomWarsFoodWars\\.vscode\\compileCommands_Default.json"
+            ]
         }
     ],
     "version": 4
